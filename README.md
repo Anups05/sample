@@ -1,4 +1,4 @@
 # sample
 This is First Git Reposirtory
 <br>
-Author -Anupras Davane
+Author -Anupras Pundlik Davane
